@@ -1,15 +1,22 @@
-[note]
-Personal resume built on Adobe Acrobat, if you have any questions, feedback, or inquiries please feel free to reach out.
+# Daylan Hoff — Resume
 
-FAQ
+Source of truth: `Daylan_Hoff_Resume.md`  
+Rendered PDF: `Daylan_Hoff_Resume.pdf`
 
-Q: Can I use this as a template?
-A: Yes, although their are likely better ones available.
+## Regenerate PDF
 
-Q: What is the best way to get ahold of you?
-A: Email, Linkdin, or by cell.
+```bash
+pip install fpdf2
+python3 generate_resume_pdf.py
+```
 
-Q: How many years have I worked in the Tech industry.
-A: I started in 2017 as a volenteer tech support agent and have been doing DevOps sense 2021.
+## Contact
 
-Have a question write me an email, and I will update the FAQ.
+- Email: daylan.hoff@gmail.com
+- Phone: 435-592-5991
+- Location: St. George, Utah
+
+## Notes
+
+Tailored toward cloud/platform engineering roles (Kubernetes, AWS, CI/CD, DevSecOps).
+Current version emphasizes AdvancedMD platform work plus contract delivery for Striker Training Complex and Providence Steward.
